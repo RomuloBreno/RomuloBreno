@@ -1,7 +1,7 @@
 ## Seja Bem-Vindo ao meu perfil
 <div align="center">
  <a href="https://github.com/RomuloBreno">
- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloBreno&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloBreno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
