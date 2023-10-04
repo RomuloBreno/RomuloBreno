@@ -1,8 +1,8 @@
 ## Seja Bem-Vindo ao meu perfil
 <div align="left">
 <a href="https://github.com/romulobreno">
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulobreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloBreno&layout=compact&langs_count=7&theme=dark"/>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulobreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloBreno&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
